@@ -7,11 +7,11 @@ The intent of the researcher was to illustrate the intricate relationship betwee
 
 ![1.png](/1.png)
 
-![2.png](https://github.com/misarip/Assignment3_4/blob/ccb260ccb5fc4c8055d5d5f6dacd6bb921160aaa/2.png)
+![2.png](/2.png)
 
 As I critiqued the above two charts using Stephen Few's Data Visualization Effectiveness Profile, the primary thing I realized that it was falling short on a lot of measures due to one major reason – Lack of a story that it wanted to tell. The data was presented in many pieces and these pieces had no meaning. The more I tried to read each graph/chart, the more I thought – So what? Out of the students who took the survey, 43.6% were female and 56.4% were male – but so what? That’s when I realized the need to make connections and draw links. This led to the following exercise where I tried to extract meaning out of the data presented. (Tool used – Procreate)
  
-![3.png](https://github.com/misarip/Assignment3_4/blob/ccb260ccb5fc4c8055d5d5f6dacd6bb921160aaa/3.jpg)
+![3.png](/3.jpg)
 
 This helped me put the information/data into context where it can provide the reader with various insights. By doing so, I generated the following preliminary graphs (Tool used – Tableau) on the following three new topics – 
 
@@ -19,9 +19,9 @@ This helped me put the information/data into context where it can provide the re
 -	Students feel pressurized in choosing a career path when they focus on what factors in career decision making process?
 -	What Gender Feels More Assured in Their Career Choices? 
  
- ![4.png](https://github.com/misarip/Assignment3_4/blob/ccb260ccb5fc4c8055d5d5f6dacd6bb921160aaa/4.jpg)
- ![5.png](https://github.com/misarip/Assignment3_4/blob/ccb260ccb5fc4c8055d5d5f6dacd6bb921160aaa/5.jpg)
- ![6.png](https://github.com/misarip/Assignment3_4/blob/ccb260ccb5fc4c8055d5d5f6dacd6bb921160aaa/6.jpg)
+ ![4.png](/4.jpg)
+ ![5.png](/5.jpg)
+ ![6.png](/6.jpg)
   
 Feedback received on the above initial charts from peers – 
 -	The first and the second graphs, now that the data is combined from original, do have multiple stories to tell. Which story am I trying to tell? Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
